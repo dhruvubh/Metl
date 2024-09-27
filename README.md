@@ -1,2 +1,2 @@
 # Metl
-Wordle Style Game but themed around Metals, Jewewls, Stone and More!
+Wordle Style Game but themed around Metals, Jewels, Stone and More!
